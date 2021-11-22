@@ -129,7 +129,7 @@ best_student.rate_sm(mentor_lect_doc, "Python", 6)
 worse_student.rate_sm(mentor_lect_doc, "Python", 8)
 worse_student.rate_sm(mentor_lect_doc, "Java", 7)
 
-best_student.rate_sm(mentor_lect_prof, "PHP", 7)
+best_student.rate_sm(mentor_lect_prof, "PHP", 8)
 best_student.rate_sm(mentor_lect_prof, "PHP", 9)
 worse_student.rate_sm(mentor_lect_prof, "C++", 8)
 worse_student.rate_sm(mentor_lect_prof, "C++", 9)
